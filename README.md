@@ -4,6 +4,10 @@ An ultra-modern, resilient landing page and Framer code component built for **Sk
 
 ---
 
+<img width="1920" height="1200" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/09072ba1-35b8-4883-846b-2ddd95912428" />
+
+---
+
 
 ## 🛠 Tech Stack
 
@@ -118,3 +122,10 @@ npm run dev
 # 4. Open in browser
 # http://localhost:3000
 ```
+
+---
+
+<img width="1920" height="1200" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/617460b3-b0fb-4353-9747-c84e39dc059f" />
+
+---
+
