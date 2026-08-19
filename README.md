@@ -4,18 +4,6 @@ An ultra-modern, resilient landing page and Framer code component built for **Sk
 
 ---
 
-## 📑 Table of Contents
-1. [Tech Stack](#-tech-stack)
-2. [Architecture & System Flow](#-architecture--system-flow)
-3. [How the Flaky API & Errors Were Tackled](#-how-the-flaky-api--errors-were-tackled)
-4. [Currency Conversion & Pricing Logic](#-currency-conversion--pricing-logic)
-5. [Key Features & Bonus Requirements](#-key-features--bonus-requirements)
-6. [Design System & Mountbatten Pink Palette](#-design-system--mountbatten-pink-palette)
-7. [Framer Code Component Guide](#-framer-code-component-guide)
-8. [Local Setup & Development](#-local-setup--development)
-9. [Interview & Technical Call Preparation](#-interview--technical-call-preparation)
-
----
 
 ## 🛠 Tech Stack
 
@@ -114,37 +102,6 @@ The endpoints return HTTP 405 for non-GET verbs. The fetch calls explicitly defi
 
 ---
 
-## 🎨 Design System & Mountbatten Pink Palette
-
-```css
-:root {
-  --color-mountbatten-pink-50: #fafafa;
-  --color-mountbatten-pink-100: #f5f3f6;
-  --color-mountbatten-pink-200: #e8e1ea;
-  --color-mountbatten-pink-300: #dad0dc;
-  --color-mountbatten-pink-400: #ae98b3;
-  --color-mountbatten-pink-500: #927b97;
-  --color-mountbatten-pink-600: #5f4964;
-  --color-mountbatten-pink-700: #49384d;
-  --color-mountbatten-pink-800: #2b242d;
-  --color-mountbatten-pink-900: #1c151e;
-  --color-mountbatten-pink-950: #0c070d;
-}
-```
-
----
-
-## 📦 Framer Code Component Guide
-
-The standalone component [SkillpathCourses.tsx](./SkillpathCourses.tsx) is fully self-contained and ready to paste into Framer:
-
-1. Open your project in **Framer**.
-2. Navigate to **Assets** $\rightarrow$ **Code** $\rightarrow$ Click **New component**.
-3. Name it `SkillpathCourses.tsx`.
-4. Paste the entire content of [`SkillpathCourses.tsx`](./SkillpathCourses.tsx).
-5. Drag it onto your Framer canvas.
-
----
 
 ## 💻 Local Setup & Development
 
